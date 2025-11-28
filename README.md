@@ -1,11 +1,10 @@
 ---
-title: Docker Hf
-emoji: ⚡
-colorFrom: green
-colorTo: purple
+title: OpenAI Like API
+emoji: 🤖
+colorFrom: blue
+colorTo: indigo
 sdk: docker
+app_port: 7860
 pinned: false
-short_description: docker deploy of fastAPI openAi like api
+license: mit
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
